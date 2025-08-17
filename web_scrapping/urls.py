@@ -1,7 +1,5 @@
 import os
 
-
-
 vietnamese_newspaper_urls = [
     "https://vietnamnet.vn/",
     "https://vnexpress.net/",
